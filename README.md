@@ -1,3 +1,7 @@
+![IMG_7040](https://user-images.githubusercontent.com/79078061/112457878-49644280-8db0-11eb-8c2f-7cebb63684b8.JPG)
+![IMG_7041](https://user-images.githubusercontent.com/79078061/112457918-51bc7d80-8db0-11eb-8ae4-de621c02f097.JPG)
+![IMG_7042](https://user-images.githubusercontent.com/79078061/112457926-53864100-8db0-11eb-9220-791f668290e1.JPG)
+![IMG_7043](https://user-images.githubusercontent.com/79078061/112457932-55500480-8db0-11eb-8bb0-6034226c3b8e.JPG)
 # Quiz-homework
 
 Creating a Homework Assignment that applies knowledge of html, css and Javascript to create a reactive quiz.
